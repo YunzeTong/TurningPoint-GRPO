@@ -1,23 +1,23 @@
 # Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-Paper-B31B1B.svg" alt="arXiv"></a>
+  <a href="http://arxiv.org/abs/2602.06422"><img src="https://img.shields.io/badge/arXiv-Paper-B31B1B.svg" alt="arXiv"></a>
   <a href="#"><img src="https://img.shields.io/badge/Project-Page-blue.svg" alt="Project Page"></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License"></a>
 </p>
 
 <p align="center">
-  <strong>Yunze Tong</strong><sup>1</sup>,
-  <strong>Mushui Liu</strong><sup>1,2</sup>,
+  <a href="https://yunzetong.github.io"><strong>Yunze Tong</strong></a><sup>1</sup>,
+  <a href="https://xiaobul.github.io"><strong>Mushui Liu</strong></a><sup>1,2</sup>,
   <strong>Canyu Zhao</strong><sup>1</sup>,
   <strong>Wanggui He</strong><sup>2</sup>,
   <strong>Shiyi Zhang</strong><sup>3</sup>,
   <strong>Hongwei Zhang</strong><sup>1</sup>,
   <strong>Jinlong Liu</strong><sup>2</sup>,
-  <strong>Song Yan</strong><sup>2</sup>,
+  <strong>Ju Huang</strong><sup>2</sup>,
   <strong>Jiamang Wang</strong><sup>2</sup>,
-  <strong>Pipei Huang</strong><sup>2</sup>,
-  <strong>Hao Jiang</strong><sup>2&dagger;</sup>
+  <strong>Hao Jiang</strong><sup>2&dagger;</sup>,
+  <strong>Pipei Huang</strong><sup>2</sup>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <!-- <sup>*</sup>Equal contribution, -->
+  <sup>*</sup>Equal contribution,
   <sup>&dagger;</sup>Corresponding author
 </p>
 
@@ -188,7 +188,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Acknowledgements
 
-This codebase is built upon [Flow-GRPO](https://github.com/yifan123/flow_grpo). We sincerely thank the authors for their excellent work and open-source contribution. We also show gratitude to those works that provide reward models, including [PickScore](https://huggingface.co/yuvalkirstain/PickScore_v1), [ImageReward](https://huggingface.co/THUDM/ImageReward), [GenEval](https://github.com/djghosh13/geneval), [DeQA](https://huggingface.co/zhiyuanyou/DeQA-Score-Mix3), [UnifiedReward](https://huggingface.co/CodeGoat24/UnifiedReward-qwen-7b).
+This codebase is built upon [Flow-GRPO](https://github.com/yifan123/flow_grpo). We sincerely thank the authors for their excellent work and open-source contribution. We also thank the creators of reward models used in our work, including [PickScore](https://huggingface.co/yuvalkirstain/PickScore_v1), [ImageReward](https://huggingface.co/THUDM/ImageReward), [GenEval](https://github.com/djghosh13/geneval), [DeQA](https://huggingface.co/zhiyuanyou/DeQA-Score-Mix3), [UnifiedReward](https://huggingface.co/CodeGoat24/UnifiedReward-qwen-7b).
 
 ---
 
@@ -197,8 +197,14 @@ This codebase is built upon [Flow-GRPO](https://github.com/yifan123/flow_grpo). 
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{
-  <!-- TODO: Add citation information -->
+@misc{tong2026alleviatingsparserewardsmodeling,
+      title={Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO}, 
+      author={Yunze Tong and Mushui Liu and Canyu Zhao and Wanggui He and Shiyi Zhang and Hongwei Zhang and Peng Zhang and Jinlong Liu and Ju Huang and Jiamang Wang and Hao Jiang and Pipei Huang},
+      year={2026},
+      eprint={2602.06422},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.06422}, 
 }
 ```
 
