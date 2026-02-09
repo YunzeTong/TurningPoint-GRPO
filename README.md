@@ -197,14 +197,11 @@ This codebase is built upon [Flow-GRPO](https://github.com/yifan123/flow_grpo). 
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@misc{tong2026alleviatingsparserewardsmodeling,
-      title={Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO}, 
-      author={Yunze Tong and Mushui Liu and Canyu Zhao and Wanggui He and Shiyi Zhang and Hongwei Zhang and Peng Zhang and Jinlong Liu and Ju Huang and Jiamang Wang and Hao Jiang and Pipei Huang},
-      year={2026},
-      eprint={2602.06422},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2602.06422}, 
+@article{tong2026alleviatingsparserewardsmodeling,
+  title={Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO},
+  author={Tong, Yunze and Liu, Mushui and Zhao, Canyu and He, Wanggui and Zhang, Shiyi and Zhang, Hongwei and Zhang, Peng and Liu, Jinlong and Huang, Ju and Wang, Jiamang and Jiang, Hao and Huang, Pipei},
+  journal={arXiv preprint arXiv:2602.06422},
+  year={2026}
 }
 ```
 
