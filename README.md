@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://yunzetong.github.io"><strong>Yunze Tong</strong></a><sup>1</sup>,
-  <a href="https://xiaobul.github.io"><strong>Mushui Liu</strong></a><sup>1,2</sup>,
+  <a href="https://yunzetong.github.io"><strong>Yunze Tong</strong></a><sup>1</sup><sup>*</sup>,
+  <a href="https://xiaobul.github.io"><strong>Mushui Liu</strong></a><sup>1,2</sup><sup>*</sup>,
   <strong>Canyu Zhao</strong><sup>1</sup>,
   <strong>Wanggui He</strong><sup>2</sup>,
   <strong>Shiyi Zhang</strong><sup>3</sup>,
