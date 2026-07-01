@@ -10,6 +10,7 @@
   <a href="https://yunzetong.github.io"><strong>Yunze Tong</strong></a><sup>1</sup><sup>*</sup>,
   <a href="https://xiaobul.github.io"><strong>Mushui Liu</strong></a><sup>1,2</sup><sup>*</sup>,
   <strong>Canyu Zhao</strong><sup>1</sup>,
+  <strong>Didi Zhu</strong><sup>1</sup>,
   <strong>Wanggui He</strong><sup>2</sup>,
   <strong>Shiyi Zhang</strong><sup>3</sup>,
   <strong>Hongwei Zhang</strong><sup>1</sup>,
@@ -63,6 +64,7 @@ Deploying GRPO on Flow Matching models has proven effective for text-to-image ge
 
 ## Updates
 
+- **[2026.05]** Update a new version on arXiv.
 - **[2026.02]** Initial release of the codebase.
 - **[2026.02]** Paper available on arXiv.
 
@@ -199,7 +201,7 @@ If you find this work useful for your research, please consider citing our paper
 ```bibtex
 @article{tong2026alleviatingsparserewardsmodeling,
   title={Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO},
-  author={Tong, Yunze and Liu, Mushui and Zhao, Canyu and He, Wanggui and Zhang, Shiyi and Zhang, Hongwei and Zhang, Peng and Liu, Jinlong and Huang, Ju and Wang, Jiamang and Jiang, Hao and Huang, Pipei},
+  author={Tong, Yunze and Liu, Mushui and Zhao, Canyu and Zhu, Didi and He, Wanggui and Zhang, Shiyi and Zhang, Hongwei and Zhang, Peng and Liu, Jinlong and Huang, Ju and Wang, Jiamang and Jiang, Hao and Huang, Pipei},
   journal={arXiv preprint arXiv:2602.06422},
   year={2026}
 }
