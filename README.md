@@ -201,7 +201,7 @@ If you find this work useful for your research, please consider citing our paper
 ```bibtex
 @article{tong2026alleviatingsparserewardsmodeling,
   title={Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO},
-  author={Tong, Yunze and Liu, Mushui and Zhao, Canyu and Zhu, Didi and He, Wanggui and Zhang, Shiyi and Zhang, Hongwei and Zhang, Peng and Liu, Jinlong and Huang, Ju and Wang, Jiamang and Jiang, Hao and Huang, Pipei},
+  author={Tong, Yunze and Liu, Mushui and Zhao, Canyu and He, Wanggui and Zhang, Shiyi and Zhang, Hongwei and Zhang, Peng and Liu, Jinlong and Huang, Ju and Wang, Jiamang and Jiang, Hao and Huang, Pipei},
   journal={arXiv preprint arXiv:2602.06422},
   year={2026}
 }
